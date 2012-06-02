@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{cloudsim}
+Cloudsim simulation framework.
+\newblock \url{http://www.cloudbus.org/cloudsim/}.
+
+\bibitem{eclipse}
+Eclipse software.
+\newblock \url{http://en.wikipedia.org/wiki/Eclipse_(software)}.
+
+\bibitem{oreilly}
+G.Reese.
+\newblock Cloud application architecture.
+\newblock 2009.
+
+\bibitem{optimaljoint}
+Shin ichi Kuribayashi.
+\newblock Optimal joint multiple resource allocation method for cloud computing
+  environments.
+\newblock {\em International Journal of Research and Reviews in Computer
+  Science (IJRRCS)}, 2(1), 2011.
+
+\bibitem{java}
+Java programming language.
+\newblock \url{http://en.wikipedia.org/wiki/Java}.
+
+\bibitem{python}
+Python programming language.
+\newblock \url{http://en.wikipedia.org/wiki/Python_(programming_language)}.
+
+\end{thebibliography}
